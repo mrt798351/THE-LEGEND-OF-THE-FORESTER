@@ -1,0 +1,3710 @@
+fileFormatVersion: 2
+guid: 0261f62297c443848b2792ea339a9017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6758947398278081398
+    second: Dungeon Tileset + Spikes_0
+  - first:
+      213: 3083730748243825107
+    second: Dungeon Tileset + Spikes_1
+  - first:
+      213: 4049308175878495279
+    second: Dungeon Tileset + Spikes_2
+  - first:
+      213: 3553662774569260276
+    second: Dungeon Tileset + Spikes_3
+  - first:
+      213: 8451163760302164700
+    second: Dungeon Tileset + Spikes_4
+  - first:
+      213: 6995630727249084057
+    second: Dungeon Tileset + Spikes_5
+  - first:
+      213: -530247137259142327
+    second: Dungeon Tileset + Spikes_6
+  - first:
+      213: 2015013553642485783
+    second: Dungeon Tileset + Spikes_7
+  - first:
+      213: -2541788772010528859
+    second: Dungeon Tileset + Spikes_8
+  - first:
+      213: -958989818805523940
+    second: Dungeon Tileset + Spikes_9
+  - first:
+      213: -917981763234524899
+    second: Dungeon Tileset + Spikes_10
+  - first:
+      213: -7684336862926330705
+    second: Dungeon Tileset + Spikes_11
+  - first:
+      213: -3899854957347415743
+    second: Dungeon Tileset + Spikes_12
+  - first:
+      213: -4146801309934910582
+    second: Dungeon Tileset + Spikes_13
+  - first:
+      213: -8809016461519292215
+    second: Dungeon Tileset + Spikes_14
+  - first:
+      213: -8088647624789847139
+    second: Dungeon Tileset + Spikes_15
+  - first:
+      213: 1052612325600222761
+    second: Dungeon Tileset + Spikes_16
+  - first:
+      213: 2435794277912237302
+    second: Dungeon Tileset + Spikes_17
+  - first:
+      213: -4863066425703872039
+    second: Dungeon Tileset + Spikes_18
+  - first:
+      213: -2303118337771789250
+    second: Dungeon Tileset + Spikes_19
+  - first:
+      213: 6016887568389382745
+    second: Dungeon Tileset + Spikes_20
+  - first:
+      213: 3248359269808565960
+    second: Dungeon Tileset + Spikes_21
+  - first:
+      213: 3513434159834540618
+    second: Dungeon Tileset + Spikes_22
+  - first:
+      213: 559825557657903751
+    second: Dungeon Tileset + Spikes_23
+  - first:
+      213: 7191743974582530423
+    second: Dungeon Tileset + Spikes_24
+  - first:
+      213: 7319907566107994060
+    second: Dungeon Tileset + Spikes_25
+  - first:
+      213: -1376255070379997097
+    second: Dungeon Tileset + Spikes_26
+  - first:
+      213: 7537686894488253139
+    second: Dungeon Tileset + Spikes_27
+  - first:
+      213: 3865023856246527855
+    second: Dungeon Tileset + Spikes_28
+  - first:
+      213: -2650541528952325257
+    second: Dungeon Tileset + Spikes_29
+  - first:
+      213: 2579824128147969601
+    second: Dungeon Tileset + Spikes_30
+  - first:
+      213: 5669436844963415205
+    second: Dungeon Tileset + Spikes_31
+  - first:
+      213: 6476431226367317187
+    second: Dungeon Tileset + Spikes_32
+  - first:
+      213: 4569179747141887267
+    second: Dungeon Tileset + Spikes_33
+  - first:
+      213: -5015696158119838000
+    second: Dungeon Tileset + Spikes_34
+  - first:
+      213: 6924753549676559989
+    second: Dungeon Tileset + Spikes_35
+  - first:
+      213: -3598651246864799542
+    second: Dungeon Tileset + Spikes_36
+  - first:
+      213: -496487151512640703
+    second: Dungeon Tileset + Spikes_37
+  - first:
+      213: 4978565352431226504
+    second: Dungeon Tileset + Spikes_38
+  - first:
+      213: -2112537572442143444
+    second: Dungeon Tileset + Spikes_39
+  - first:
+      213: -7752848305988145215
+    second: Dungeon Tileset + Spikes_40
+  - first:
+      213: -4234741311889534158
+    second: Dungeon Tileset + Spikes_41
+  - first:
+      213: -1310373892101565850
+    second: Dungeon Tileset + Spikes_42
+  - first:
+      213: 8863957497986627570
+    second: Dungeon Tileset + Spikes_43
+  - first:
+      213: 2945632106200730223
+    second: Dungeon Tileset + Spikes_44
+  - first:
+      213: 9006093040293314016
+    second: Dungeon Tileset + Spikes_45
+  - first:
+      213: 3441556634542905411
+    second: Dungeon Tileset + Spikes_46
+  - first:
+      213: -5677634277949833907
+    second: Dungeon Tileset + Spikes_47
+  - first:
+      213: 3552505151253527372
+    second: Dungeon Tileset + Spikes_48
+  - first:
+      213: -8983986662951805376
+    second: Dungeon Tileset + Spikes_49
+  - first:
+      213: 7971213283882014970
+    second: Dungeon Tileset + Spikes_50
+  - first:
+      213: 4726081498493095427
+    second: Dungeon Tileset + Spikes_51
+  - first:
+      213: -6146888278149511326
+    second: Dungeon Tileset + Spikes_52
+  - first:
+      213: 5630986223252412109
+    second: Dungeon Tileset + Spikes_53
+  - first:
+      213: 1442169774824025021
+    second: Dungeon Tileset + Spikes_54
+  - first:
+      213: 3488748084053080817
+    second: Dungeon Tileset + Spikes_55
+  - first:
+      213: -1477740024731986466
+    second: Dungeon Tileset + Spikes_56
+  - first:
+      213: -8520021301638677707
+    second: Dungeon Tileset + Spikes_57
+  - first:
+      213: -3795082722767632401
+    second: Dungeon Tileset + Spikes_58
+  - first:
+      213: -3991604210622973293
+    second: Dungeon Tileset + Spikes_59
+  - first:
+      213: 1567361993219166388
+    second: Dungeon Tileset + Spikes_60
+  - first:
+      213: 3148841101566414838
+    second: Dungeon Tileset + Spikes_61
+  - first:
+      213: -2622851431665679217
+    second: Dungeon Tileset + Spikes_62
+  - first:
+      213: 5785190949840137779
+    second: Dungeon Tileset + Spikes_63
+  - first:
+      213: -6949797685358583513
+    second: Dungeon Tileset + Spikes_64
+  - first:
+      213: -4854952596157107113
+    second: Dungeon Tileset + Spikes_65
+  - first:
+      213: -9114468617975734313
+    second: Dungeon Tileset + Spikes_66
+  - first:
+      213: -6195551719090148524
+    second: Dungeon Tileset + Spikes_67
+  - first:
+      213: 2069724845164913316
+    second: Dungeon Tileset + Spikes_68
+  - first:
+      213: 8752017881856868064
+    second: Dungeon Tileset + Spikes_69
+  - first:
+      213: -4854926804304044339
+    second: Dungeon Tileset + Spikes_70
+  - first:
+      213: -364309838513761142
+    second: Dungeon Tileset + Spikes_71
+  - first:
+      213: -7785482584862375991
+    second: Dungeon Tileset + Spikes_72
+  - first:
+      213: 5362915790364469946
+    second: Dungeon Tileset + Spikes_73
+  - first:
+      213: 8852340908144543023
+    second: Dungeon Tileset + Spikes_74
+  - first:
+      213: -1692779977302767955
+    second: Dungeon Tileset + Spikes_75
+  - first:
+      213: -1064287139786827988
+    second: Dungeon Tileset + Spikes_76
+  - first:
+      213: -487644928786184778
+    second: Dungeon Tileset + Spikes_77
+  - first:
+      213: 1805418885070730829
+    second: Dungeon Tileset + Spikes_78
+  - first:
+      213: 8958770470817898401
+    second: Dungeon Tileset + Spikes_79
+  - first:
+      213: 4957632222677248086
+    second: Dungeon Tileset + Spikes_80
+  - first:
+      213: 9105456975061089696
+    second: Dungeon Tileset + Spikes_81
+  - first:
+      213: 4455084536412979912
+    second: Dungeon Tileset + Spikes_82
+  - first:
+      213: -6742876599457385203
+    second: Dungeon Tileset + Spikes_83
+  - first:
+      213: 3808706489536863426
+    second: Dungeon Tileset + Spikes_84
+  - first:
+      213: 7090933230686028351
+    second: Dungeon Tileset + Spikes_85
+  - first:
+      213: -2876275885670969188
+    second: Dungeon Tileset + Spikes_86
+  - first:
+      213: 5249534415368464350
+    second: Dungeon Tileset + Spikes_87
+  - first:
+      213: -7030744784422075116
+    second: Dungeon Tileset + Spikes_88
+  - first:
+      213: 2556978757641898684
+    second: Dungeon Tileset + Spikes_89
+  - first:
+      213: -406078412911660403
+    second: Dungeon Tileset + Spikes_90
+  - first:
+      213: 9077490971847812548
+    second: Dungeon Tileset + Spikes_91
+  - first:
+      213: -1780271147088195392
+    second: Dungeon Tileset + Spikes_92
+  - first:
+      213: -6318452435237078475
+    second: Dungeon Tileset + Spikes_93
+  - first:
+      213: -5593417477137781795
+    second: Dungeon Tileset + Spikes_94
+  - first:
+      213: 8153774541127475013
+    second: Dungeon Tileset + Spikes_95
+  - first:
+      213: 4222874638185555638
+    second: Dungeon Tileset + Spikes_96
+  - first:
+      213: 6824618591161629792
+    second: Dungeon Tileset + Spikes_97
+  - first:
+      213: -781624511859805914
+    second: Dungeon Tileset + Spikes_98
+  - first:
+      213: -3074790512613370483
+    second: Dungeon Tileset + Spikes_99
+  - first:
+      213: 2678280554156870848
+    second: Dungeon Tileset + Spikes_100
+  - first:
+      213: 5272014335765268789
+    second: Dungeon Tileset + Spikes_101
+  - first:
+      213: -7623990078058598677
+    second: Dungeon Tileset + Spikes_102
+  - first:
+      213: -7309140326621541780
+    second: Dungeon Tileset + Spikes_103
+  - first:
+      213: -310602409351027845
+    second: Dungeon Tileset + Spikes_104
+  - first:
+      213: -2585287105690030269
+    second: Dungeon Tileset + Spikes_105
+  - first:
+      213: 4603798719287157842
+    second: Dungeon Tileset + Spikes_106
+  - first:
+      213: -1571593541652349005
+    second: Dungeon Tileset + Spikes_107
+  - first:
+      213: 1230064552023124835
+    second: Dungeon Tileset + Spikes_108
+  - first:
+      213: 5041939849697860952
+    second: Dungeon Tileset + Spikes_109
+  - first:
+      213: -8306547363724930997
+    second: Dungeon Tileset + Spikes_110
+  - first:
+      213: 1327155418023592760
+    second: Dungeon Tileset + Spikes_111
+  - first:
+      213: 33439581089423450
+    second: Dungeon Tileset + Spikes_112
+  - first:
+      213: -7088683918995100859
+    second: Dungeon Tileset + Spikes_113
+  - first:
+      213: 3240751435166555802
+    second: Dungeon Tileset + Spikes_114
+  - first:
+      213: 2380792264282118655
+    second: Dungeon Tileset + Spikes_115
+  - first:
+      213: -3079719649350294391
+    second: Dungeon Tileset + Spikes_116
+  - first:
+      213: 1701963335404646939
+    second: Dungeon Tileset + Spikes_117
+  - first:
+      213: 3757258675108025143
+    second: Dungeon Tileset + Spikes_118
+  - first:
+      213: -4065732585418897169
+    second: Dungeon Tileset + Spikes_119
+  - first:
+      213: 6530190679792359857
+    second: Dungeon Tileset + Spikes_120
+  - first:
+      213: -4886395451258883914
+    second: Dungeon Tileset + Spikes_121
+  - first:
+      213: -6877314072454342197
+    second: Dungeon Tileset + Spikes_122
+  - first:
+      213: 7984582831975482802
+    second: Dungeon Tileset + Spikes_123
+  - first:
+      213: -728231253099386316
+    second: Dungeon Tileset + Spikes_124
+  - first:
+      213: -4318961530930498699
+    second: Dungeon Tileset + Spikes_125
+  - first:
+      213: 865372449169312636
+    second: Dungeon Tileset + Spikes_126
+  - first:
+      213: 796552840803946588
+    second: Dungeon Tileset + Spikes_127
+  - first:
+      213: 124481323536819200
+    second: Dungeon Tileset + Spikes_128
+  - first:
+      213: -4660713302304499471
+    second: Dungeon Tileset + Spikes_129
+  - first:
+      213: 2605049645185352833
+    second: Dungeon Tileset + Spikes_130
+  - first:
+      213: -6847358808090104007
+    second: Dungeon Tileset + Spikes_131
+  - first:
+      213: 909790385929455
+    second: Dungeon Tileset + Spikes_132
+  - first:
+      213: 4507661483431452092
+    second: Dungeon Tileset + Spikes_133
+  - first:
+      213: -756513935978166869
+    second: Dungeon Tileset + Spikes_134
+  - first:
+      213: -503197809225778635
+    second: Dungeon Tileset + Spikes_135
+  - first:
+      213: 3892895435065657065
+    second: Dungeon Tileset + Spikes_136
+  - first:
+      213: -3218396190665444855
+    second: Dungeon Tileset + Spikes_137
+  - first:
+      213: -2421638336584719380
+    second: Dungeon Tileset + Spikes_138
+  - first:
+      213: 1016765867770442717
+    second: Dungeon Tileset + Spikes_139
+  - first:
+      213: -6417078571023180177
+    second: Dungeon Tileset + Spikes_140
+  - first:
+      213: -2810098062332565281
+    second: Dungeon Tileset + Spikes_141
+  - first:
+      213: 5974737954069927724
+    second: Dungeon Tileset + Spikes_142
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac431ff627b70354285da452bb5cc5f2
+      internalID: -6758947398278081398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd7815252239d46aa8e7528cda6af9
+      internalID: 3083730748243825107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a448cb8c9a64b94d9c0a6d820378d08
+      internalID: 4049308175878495279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dba51f2518d8b4aadf51e6bd16c8b5
+      internalID: 3553662774569260276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dfb7975830e60448b320d7d266ab94
+      internalID: 8451163760302164700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e5bfda2f61df447811032f7b569199
+      internalID: 6995630727249084057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08ac38668de47a46aae733217c286bc
+      internalID: -530247137259142327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba872c271aaeab4a8eecf716c24fa5d
+      internalID: 2015013553642485783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7753a13a6e404a83f78267fd47c46
+      internalID: -2541788772010528859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fbb461896f90f49b3ed0dcde9c1f1c
+      internalID: -958989818805523940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61538cea8b9738346a7ff50ed73c4ae4
+      internalID: -917981763234524899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df41fbbfc6ba4aa4f855104476df0f6f
+      internalID: -7684336862926330705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d034b995fe366445abc092dbba3ebf8
+      internalID: -3899854957347415743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452ef97a507c8dd4cb40fe167f25a7de
+      internalID: -4146801309934910582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65760fd5af04c34f97361fddd946cf9
+      internalID: -8809016461519292215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c46917fa04b9a4a8b53dfe51aae3c9
+      internalID: -8088647624789847139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdab85160a121f4985ab523af5dc0d6
+      internalID: 1052612325600222761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bf17ad498fa92479d400c399f2e971
+      internalID: 2435794277912237302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ad8b795ea078b4b8ed07c7c8428a5a
+      internalID: -4863066425703872039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ac95eb3003ee94caacd8eda9b167a1
+      internalID: -2303118337771789250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f055098a3dac4b4282c24699cc85289
+      internalID: 6016887568389382745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98ea1c9f7a1dcc418b4503e7c458d31
+      internalID: 3248359269808565960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9003ea87861f23b41a5d3319b64e3947
+      internalID: 3513434159834540618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd3a8ca35cc5d46afd7abde77e04ab
+      internalID: 559825557657903751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8cd0797edfab64d88357ecbe8c742a
+      internalID: 7191743974582530423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845d7e15d9392b94281955a7db4c28ed
+      internalID: 7319907566107994060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0c5b50415b72144890b6ac45877e45
+      internalID: -1376255070379997097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08acd08450efa024aa2233cb6afef9dc
+      internalID: 7537686894488253139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6805ce8b5ff3fba4995962d73e14f889
+      internalID: 3865023856246527855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8861f10bbf68e14c9e44e5be5e4dd2f
+      internalID: -2650541528952325257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b72a29aeba8ad42ae6170bc6dc851e
+      internalID: 2579824128147969601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b41eaead0b09343a9035ad0369b52b
+      internalID: 5669436844963415205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1eebc3bff24414394cb4494655050a
+      internalID: 6476431226367317187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81898b2d3e810f346a38a06f67ee077d
+      internalID: 4569179747141887267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f4b10b0e85d42468917f9e9e7563de
+      internalID: -5015696158119838000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54aeb15f8440694c858e027a7344e60
+      internalID: 6924753549676559989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab289d12dbc2b7b4b9cae420bb0ae7f0
+      internalID: -3598651246864799542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a400f0b2c3b798149b0b8ae90e16c123
+      internalID: -496487151512640703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a26b52c7b9e63a40a18bc4a4c3db959
+      internalID: 4978565352431226504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9017bbb75b530534e9983250dff114e0
+      internalID: -2112537572442143444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb71c3beace8f824ab827899416246eb
+      internalID: -7752848305988145215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc98c623ab624c145a62313856b8ebf5
+      internalID: -4234741311889534158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb1d71a2cc5c7e48934abd8423045dd
+      internalID: -1310373892101565850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59406a33a9dc3af4b9f6b6f3150c07e1
+      internalID: 8863957497986627570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48f90410036fb14da767421e321671f
+      internalID: 2945632106200730223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c89cbb072eb43148933538bec58f63a
+      internalID: 9006093040293314016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5625ca1b2fd63945845b6482ca340f4
+      internalID: 3441556634542905411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a9e206055f364e9d9f1960e4202c2
+      internalID: -5677634277949833907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a91072cd6333ac4291f89a9b63be2a6
+      internalID: 3552505151253527372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c029277e13862948a0311de1a7546f3
+      internalID: -8983986662951805376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ecaf9263b7e57418b644d7ddf54e93
+      internalID: 7971213283882014970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4546ec0db0416ad4cb08f65af0d89611
+      internalID: 4726081498493095427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70688481aa9096a4dbd77678e7291bae
+      internalID: -6146888278149511326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11d5746b22dcc74e9bf2f5f36bb8531
+      internalID: 5630986223252412109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaaa1f49f2a3e94c96bd3e1d4aee7fb
+      internalID: 1442169774824025021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf9aeb57ad42854fa159e9fd068a2c6
+      internalID: 3488748084053080817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ccd3e9b76721344a3023245d5fafac
+      internalID: -1477740024731986466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329d9d73b800b3543a6b4fb0ff06a569
+      internalID: -8520021301638677707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577766d9d538a2444818406b19a88f23
+      internalID: -3795082722767632401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101ef71e90105204ea1ad757658f6439
+      internalID: -3991604210622973293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79109608a78910e49b2b8730eeb09640
+      internalID: 1567361993219166388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a460c6e864a8fb4ea35eabee2456a0b
+      internalID: 3148841101566414838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02e2122691243642976dc4dcb3aa003
+      internalID: -2622851431665679217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f74cd23edd88c4b9c6c4bcc3cdf190
+      internalID: 5785190949840137779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62cd9b00a83b4c459f7125a857d8f8b
+      internalID: -6949797685358583513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6512318bc5eb04283d8c41f928d612
+      internalID: -4854952596157107113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fde20a952dc8349ab2cc48a5cf8650
+      internalID: -9114468617975734313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc2aeb7cc516f64faa6fc3400c87705
+      internalID: -6195551719090148524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a88434e0de0d4d8c0c57b174f9d8c
+      internalID: 2069724845164913316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09ef4dbaa4492438940f0b0aece791
+      internalID: 8752017881856868064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e36c98cd48a74747af1c168707faf3b
+      internalID: -4854926804304044339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63de40944e911414a83a70f6cace926d
+      internalID: -364309838513761142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6615d3ca2b1c9dd4087fff7a12814f78
+      internalID: -7785482584862375991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca5ba8c6cd926946a041beaa7ce706f
+      internalID: 5362915790364469946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b950acef921d046b853ce58b2fbfb9
+      internalID: 8852340908144543023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f08ef7eaa3b946a6d66fbb8780a34
+      internalID: -1692779977302767955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824eb82ee3146b1428ddf8a0e5345dde
+      internalID: -1064287139786827988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcb8575e1d2d3146891ff3e5cc25cdd
+      internalID: -487644928786184778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3cd9e138952274784e45e54d674ccf
+      internalID: 1805418885070730829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dafab16a78aa0f4daa2e1138685fcb3
+      internalID: 8958770470817898401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cc92eb1d02dd48936d88fc179edb5
+      internalID: 4957632222677248086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d78bc8ef6d617499404efbffbc4361
+      internalID: 9105456975061089696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d695230022a35a41b95fd6f98a10559
+      internalID: 4455084536412979912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbef67cfda64bd242873f2f865410d91
+      internalID: -6742876599457385203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3127de78a7364eb428d540d16fdf8712
+      internalID: 3808706489536863426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8945f77d9f0242348a9049c981f44a66
+      internalID: 7090933230686028351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7db4f4c209af33438140ae959b1794f
+      internalID: -2876275885670969188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4085b8e879ca384cbdc80ce5cd8dd8b
+      internalID: 5249534415368464350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dacc92afcf8d3440902cb14e859d208
+      internalID: -7030744784422075116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab2e653c45506c4e83bc6a522a7a7f1
+      internalID: 2556978757641898684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20051de81be49e042a5435980f0e6118
+      internalID: -406078412911660403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f24ed7d71740a34ab5b8704d1e93c18
+      internalID: 9077490971847812548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32d5c8a80c5f7c47b57a0f0d77b6bc5
+      internalID: -1780271147088195392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43081ca517841c34ba5c24a044b5f036
+      internalID: -6318452435237078475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_94
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8d06c194b4862489229c246e6b1d27
+      internalID: -5593417477137781795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766b396ae6022ff45af7804eac5f52b8
+      internalID: 8153774541127475013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50bdce74ec12d94aa8732f2c21eba37
+      internalID: 4222874638185555638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3b7db40ec02a41a97ef6993911e2e
+      internalID: 6824618591161629792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603fd76314bd02a4381c39cdd0abbd46
+      internalID: -781624511859805914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd621291ba2a634a82ca9813a04e9b5
+      internalID: -3074790512613370483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6041faf24c67e13469b2841cafcade64
+      internalID: 2678280554156870848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c702dd79d3bc214980de4798ba067c4
+      internalID: 5272014335765268789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67b2dfa1efceb24e88c85afd0cf7923
+      internalID: -7623990078058598677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e32ebef5604e046820450e3f3ecf68
+      internalID: -7309140326621541780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c79bb28c6c0d6243ae1bad721f4e412
+      internalID: -310602409351027845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d4c3dbbb829c4488306112d512be24
+      internalID: -2585287105690030269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93716bc0fcf84f2499519e7813f7ca48
+      internalID: 4603798719287157842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56fec6c8ad73634891a4f90501e337c
+      internalID: -1571593541652349005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39842eaa66c6c8b4095312c8d55d7f67
+      internalID: 1230064552023124835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c8ec95758d23843b4826858dad9509
+      internalID: 5041939849697860952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b558b480eb9d4a94eadbe0bf76c812db
+      internalID: -8306547363724930997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e969b55b99bb54183846377c58552b
+      internalID: 1327155418023592760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1810e395f798d4abb4a2b526c78dac
+      internalID: 33439581089423450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c18b86a57ff64a99a9b05e12fd09d
+      internalID: -7088683918995100859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6799bfb8bf3974488ae0f7ab4a93491
+      internalID: 3240751435166555802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_115
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f497eb52059ff479de237367fddc6a
+      internalID: 2380792264282118655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9713a97f00d33c4f86bea1e4ce89039
+      internalID: -3079719649350294391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711cb54e6700cf249a7e4b5beb9ddd57
+      internalID: 1701963335404646939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f626e148ea045b43ab9a247c98e699f
+      internalID: 3757258675108025143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ffe5448c12504da0fb67169b883b7
+      internalID: -4065732585418897169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_120
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46527a13d618a1240a019178082c0f7f
+      internalID: 6530190679792359857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450d5f19019e3eb4294bc3973614b057
+      internalID: -4886395451258883914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da814e8a2ed386a418efa96f21fb86d9
+      internalID: -6877314072454342197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845feca07e09fb4284520ab5dcdf1e6
+      internalID: 7984582831975482802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_124
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7402c3d6d81ee242bd7022fd7a6505d
+      internalID: -728231253099386316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ef7feefab1694d9843cab99f84d81
+      internalID: -4318961530930498699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_126
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecf140014109544da7f3c4c1450d59f
+      internalID: 865372449169312636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_127
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f533e387e33ab5d47b6a14a7bb3350a6
+      internalID: 796552840803946588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_128
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4953fba4b168af4db1be2964ecb37a5
+      internalID: 124481323536819200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_129
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b14882026fdd44cb1be91119114a4e
+      internalID: -4660713302304499471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb90e68f4619e7448882df7d3dea8e4
+      internalID: 2605049645185352833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_131
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09803a8e46310c48bf5a6c9eb88774b
+      internalID: -6847358808090104007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbcb61a0fefa274b90aada2260e1a6a
+      internalID: 909790385929455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4008546acbea5d7419ffe8f23275c5c8
+      internalID: 4507661483431452092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49994f5dbed0bbe4fa852c455aa906f0
+      internalID: -756513935978166869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_135
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9209ff7bfb8e843a46bb650c2740aa
+      internalID: -503197809225778635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b94b60ade86f4944992757bfbbc29e9
+      internalID: 3892895435065657065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_137
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f59e1b6c163a42aecd8dbfcf20c4a
+      internalID: -3218396190665444855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2381ed85cb3d74cb7764b374634ab1
+      internalID: -2421638336584719380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9750de0a0a9a9f640bf0233863f71862
+      internalID: 1016765867770442717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbb5430a8ec1ca45b67ffefd96d8f9e
+      internalID: -6417078571023180177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_141
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6d36a3e274c9849b70e9c5d7343c0b
+      internalID: -2810098062332565281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Tileset + Spikes_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0986bca890f76a842804d5e61d78c768
+      internalID: 5974737954069927724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dungeon Tileset + Spikes_0: -6758947398278081398
+      Dungeon Tileset + Spikes_1: 3083730748243825107
+      Dungeon Tileset + Spikes_10: -917981763234524899
+      Dungeon Tileset + Spikes_100: 2678280554156870848
+      Dungeon Tileset + Spikes_101: 5272014335765268789
+      Dungeon Tileset + Spikes_102: -7623990078058598677
+      Dungeon Tileset + Spikes_103: -7309140326621541780
+      Dungeon Tileset + Spikes_104: -310602409351027845
+      Dungeon Tileset + Spikes_105: -2585287105690030269
+      Dungeon Tileset + Spikes_106: 4603798719287157842
+      Dungeon Tileset + Spikes_107: -1571593541652349005
+      Dungeon Tileset + Spikes_108: 1230064552023124835
+      Dungeon Tileset + Spikes_109: 5041939849697860952
+      Dungeon Tileset + Spikes_11: -7684336862926330705
+      Dungeon Tileset + Spikes_110: -8306547363724930997
+      Dungeon Tileset + Spikes_111: 1327155418023592760
+      Dungeon Tileset + Spikes_112: 33439581089423450
+      Dungeon Tileset + Spikes_113: -7088683918995100859
+      Dungeon Tileset + Spikes_114: 3240751435166555802
+      Dungeon Tileset + Spikes_115: 2380792264282118655
+      Dungeon Tileset + Spikes_116: -3079719649350294391
+      Dungeon Tileset + Spikes_117: 1701963335404646939
+      Dungeon Tileset + Spikes_118: 3757258675108025143
+      Dungeon Tileset + Spikes_119: -4065732585418897169
+      Dungeon Tileset + Spikes_12: -3899854957347415743
+      Dungeon Tileset + Spikes_120: 6530190679792359857
+      Dungeon Tileset + Spikes_121: -4886395451258883914
+      Dungeon Tileset + Spikes_122: -6877314072454342197
+      Dungeon Tileset + Spikes_123: 7984582831975482802
+      Dungeon Tileset + Spikes_124: -728231253099386316
+      Dungeon Tileset + Spikes_125: -4318961530930498699
+      Dungeon Tileset + Spikes_126: 865372449169312636
+      Dungeon Tileset + Spikes_127: 796552840803946588
+      Dungeon Tileset + Spikes_128: 124481323536819200
+      Dungeon Tileset + Spikes_129: -4660713302304499471
+      Dungeon Tileset + Spikes_13: -4146801309934910582
+      Dungeon Tileset + Spikes_130: 2605049645185352833
+      Dungeon Tileset + Spikes_131: -6847358808090104007
+      Dungeon Tileset + Spikes_132: 909790385929455
+      Dungeon Tileset + Spikes_133: 4507661483431452092
+      Dungeon Tileset + Spikes_134: -756513935978166869
+      Dungeon Tileset + Spikes_135: -503197809225778635
+      Dungeon Tileset + Spikes_136: 3892895435065657065
+      Dungeon Tileset + Spikes_137: -3218396190665444855
+      Dungeon Tileset + Spikes_138: -2421638336584719380
+      Dungeon Tileset + Spikes_139: 1016765867770442717
+      Dungeon Tileset + Spikes_14: -8809016461519292215
+      Dungeon Tileset + Spikes_140: -6417078571023180177
+      Dungeon Tileset + Spikes_141: -2810098062332565281
+      Dungeon Tileset + Spikes_142: 5974737954069927724
+      Dungeon Tileset + Spikes_15: -8088647624789847139
+      Dungeon Tileset + Spikes_16: 1052612325600222761
+      Dungeon Tileset + Spikes_17: 2435794277912237302
+      Dungeon Tileset + Spikes_18: -4863066425703872039
+      Dungeon Tileset + Spikes_19: -2303118337771789250
+      Dungeon Tileset + Spikes_2: 4049308175878495279
+      Dungeon Tileset + Spikes_20: 6016887568389382745
+      Dungeon Tileset + Spikes_21: 3248359269808565960
+      Dungeon Tileset + Spikes_22: 3513434159834540618
+      Dungeon Tileset + Spikes_23: 559825557657903751
+      Dungeon Tileset + Spikes_24: 7191743974582530423
+      Dungeon Tileset + Spikes_25: 7319907566107994060
+      Dungeon Tileset + Spikes_26: -1376255070379997097
+      Dungeon Tileset + Spikes_27: 7537686894488253139
+      Dungeon Tileset + Spikes_28: 3865023856246527855
+      Dungeon Tileset + Spikes_29: -2650541528952325257
+      Dungeon Tileset + Spikes_3: 3553662774569260276
+      Dungeon Tileset + Spikes_30: 2579824128147969601
+      Dungeon Tileset + Spikes_31: 5669436844963415205
+      Dungeon Tileset + Spikes_32: 6476431226367317187
+      Dungeon Tileset + Spikes_33: 4569179747141887267
+      Dungeon Tileset + Spikes_34: -5015696158119838000
+      Dungeon Tileset + Spikes_35: 6924753549676559989
+      Dungeon Tileset + Spikes_36: -3598651246864799542
+      Dungeon Tileset + Spikes_37: -496487151512640703
+      Dungeon Tileset + Spikes_38: 4978565352431226504
+      Dungeon Tileset + Spikes_39: -2112537572442143444
+      Dungeon Tileset + Spikes_4: 8451163760302164700
+      Dungeon Tileset + Spikes_40: -7752848305988145215
+      Dungeon Tileset + Spikes_41: -4234741311889534158
+      Dungeon Tileset + Spikes_42: -1310373892101565850
+      Dungeon Tileset + Spikes_43: 8863957497986627570
+      Dungeon Tileset + Spikes_44: 2945632106200730223
+      Dungeon Tileset + Spikes_45: 9006093040293314016
+      Dungeon Tileset + Spikes_46: 3441556634542905411
+      Dungeon Tileset + Spikes_47: -5677634277949833907
+      Dungeon Tileset + Spikes_48: 3552505151253527372
+      Dungeon Tileset + Spikes_49: -8983986662951805376
+      Dungeon Tileset + Spikes_5: 6995630727249084057
+      Dungeon Tileset + Spikes_50: 7971213283882014970
+      Dungeon Tileset + Spikes_51: 4726081498493095427
+      Dungeon Tileset + Spikes_52: -6146888278149511326
+      Dungeon Tileset + Spikes_53: 5630986223252412109
+      Dungeon Tileset + Spikes_54: 1442169774824025021
+      Dungeon Tileset + Spikes_55: 3488748084053080817
+      Dungeon Tileset + Spikes_56: -1477740024731986466
+      Dungeon Tileset + Spikes_57: -8520021301638677707
+      Dungeon Tileset + Spikes_58: -3795082722767632401
+      Dungeon Tileset + Spikes_59: -3991604210622973293
+      Dungeon Tileset + Spikes_6: -530247137259142327
+      Dungeon Tileset + Spikes_60: 1567361993219166388
+      Dungeon Tileset + Spikes_61: 3148841101566414838
+      Dungeon Tileset + Spikes_62: -2622851431665679217
+      Dungeon Tileset + Spikes_63: 5785190949840137779
+      Dungeon Tileset + Spikes_64: -6949797685358583513
+      Dungeon Tileset + Spikes_65: -4854952596157107113
+      Dungeon Tileset + Spikes_66: -9114468617975734313
+      Dungeon Tileset + Spikes_67: -6195551719090148524
+      Dungeon Tileset + Spikes_68: 2069724845164913316
+      Dungeon Tileset + Spikes_69: 8752017881856868064
+      Dungeon Tileset + Spikes_7: 2015013553642485783
+      Dungeon Tileset + Spikes_70: -4854926804304044339
+      Dungeon Tileset + Spikes_71: -364309838513761142
+      Dungeon Tileset + Spikes_72: -7785482584862375991
+      Dungeon Tileset + Spikes_73: 5362915790364469946
+      Dungeon Tileset + Spikes_74: 8852340908144543023
+      Dungeon Tileset + Spikes_75: -1692779977302767955
+      Dungeon Tileset + Spikes_76: -1064287139786827988
+      Dungeon Tileset + Spikes_77: -487644928786184778
+      Dungeon Tileset + Spikes_78: 1805418885070730829
+      Dungeon Tileset + Spikes_79: 8958770470817898401
+      Dungeon Tileset + Spikes_8: -2541788772010528859
+      Dungeon Tileset + Spikes_80: 4957632222677248086
+      Dungeon Tileset + Spikes_81: 9105456975061089696
+      Dungeon Tileset + Spikes_82: 4455084536412979912
+      Dungeon Tileset + Spikes_83: -6742876599457385203
+      Dungeon Tileset + Spikes_84: 3808706489536863426
+      Dungeon Tileset + Spikes_85: 7090933230686028351
+      Dungeon Tileset + Spikes_86: -2876275885670969188
+      Dungeon Tileset + Spikes_87: 5249534415368464350
+      Dungeon Tileset + Spikes_88: -7030744784422075116
+      Dungeon Tileset + Spikes_89: 2556978757641898684
+      Dungeon Tileset + Spikes_9: -958989818805523940
+      Dungeon Tileset + Spikes_90: -406078412911660403
+      Dungeon Tileset + Spikes_91: 9077490971847812548
+      Dungeon Tileset + Spikes_92: -1780271147088195392
+      Dungeon Tileset + Spikes_93: -6318452435237078475
+      Dungeon Tileset + Spikes_94: -5593417477137781795
+      Dungeon Tileset + Spikes_95: 8153774541127475013
+      Dungeon Tileset + Spikes_96: 4222874638185555638
+      Dungeon Tileset + Spikes_97: 6824618591161629792
+      Dungeon Tileset + Spikes_98: -781624511859805914
+      Dungeon Tileset + Spikes_99: -3074790512613370483
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
